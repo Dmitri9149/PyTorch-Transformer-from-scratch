@@ -13,7 +13,11 @@ I start with basic code from d2l.ai project: http://d2l.ai/index.html ; https://
     year={2020}
 }
 
-I collected all code for Transformer from d2l.ai in one notebook here: ......  (this repository).  
+I collected all code for Transformer from d2l.ai in one notebook here:   
+https://github.com/Dmitri9149/PyTorch-Transformer-from-scratch/blob/main/D2l_PyTorch_Transformer_from_Scratch_v0.ipynb   
+(this repository).  
+It is a 'reference point' to test changes in architecture. 
+
 If I still use the d2l.ai code, I mark it as "\### from d2l.ai" or as "\### modified code from d2l.ai"
 
 The new architecture of the Transformer I am testing now: 
